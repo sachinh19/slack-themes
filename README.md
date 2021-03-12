@@ -149,6 +149,12 @@ Instructions for Mac
 
 All contributions are welcome, please send a pull request and I will try to review and merge it as soon as possible.
 
+How to contribute?
+1. Fork this repository
+2. Create a branch with a name appropriate to the task, preferably the theme name if you are using adding a custom theme.
+3. Commit the changes to that branch in your forked repository.
+4. Send a Pull Request and wait for approval/comments.
+
 ### Adding your custom theme
 
 1. Add it to the custom themes section similar to how default themes have been added.
