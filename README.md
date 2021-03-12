@@ -144,6 +144,13 @@ Instructions for Mac
 
 All contributions are welcome, please send a pull request and I will try to review and merge it as soon as possible.
 
+When adding screenshots for the themes make sure you follow these guidelines:
+
+1. Make sure the screenshot size is small so that users with slow internet connection can open this README without much hassle.
+2. Most importantly the text in the screenshot should be decent and not be offensive in any way. Such screenshots will not pass PR approval.
+3. Add the screenshots under `assets/images/` folder where the name of the screenshot should be the name of the theme. e.g. The screenshot for aubergine should be aubergine.jpg or aubergine.png or any other extension that works best. For theme names with multiple words use hyphenated strings e.g. choco-mint
+4. Add a collapsible section with message `Click to see screenshot` under each hex code and add the screenshot inside the collapsible section. This should be done so that all collapsible sections are closed whenever a user opens the README and is able to scroll through easily without having to see all screenshots.
+
 ## License
 
 This repository is [MIT Licensed](https://github.com/sachinh19/slack-themes/blob/main/LICENSE)
