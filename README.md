@@ -1,6 +1,8 @@
 # slack-themes
 A list of slack themes for users to customize Slack.
 
+The eventual goal of this repository is for all users to be able to add their custom themes here to make them available for others to use.
+
 ## How to Use
 
 Instructions for Mac
@@ -9,6 +11,9 @@ Instructions for Mac
 2. Click on _Themes_ from the left nav-bar.
 3. Scroll to find the _Create a custom theme_ link. This should open a section to set the colors in the theme. (This step may not be needed if you have already expanded this section)
 4. Copy the hex values from one of the themes below and paste them in the large text box which under the text `Copy and paste these values to share your custom theme with others`. This should change the theme of the Slack window
+
+## Custom Themes
+
 
 
 ## Default Slack Themes
@@ -144,7 +149,14 @@ Instructions for Mac
 
 All contributions are welcome, please send a pull request and I will try to review and merge it as soon as possible.
 
-When adding screenshots for the themes make sure you follow these guidelines:
+### Adding your custom theme
+
+1. Add it to the custom themes section similar to how default themes have been added.
+2. Make sure the add a screenshot as well following the guidelines the section below.
+3. Name your theme as per your wish, add a link to your Github profile beside the theme name in parentheses so every using it is aware of the creator.
+4. Refrain from using foul, offensive or indecent language in custom theme names.
+
+### Adding screenshots for the themes - make sure to follow these guidelines:
 
 1. Make sure the screenshot size is small so that users with slow internet connection can open this README without much hassle.
 2. Most importantly the text in the screenshot should be decent and not be offensive in any way. Such screenshots will not pass PR approval.
