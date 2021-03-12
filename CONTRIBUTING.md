@@ -3,10 +3,11 @@ All contributions are welcome, please send a pull request and I will try to revi
 
 ### How to contribute?
 
-1. Fork this repository
-2. Create a branch with a name appropriate to the task, preferably the theme name if you are using adding a custom theme.
-3. Commit the changes to that branch in your forked repository.
-4. Send a Pull Request and wait for approval/comments.
+1. Fork this repository.
+2. Clone this repository locally on your machine and move into the slack-themes folder.
+4. Create a branch with a name appropriate to the task, preferably the theme name if you are adding a custom theme.
+6. Commit the changes to that branch in your cloned repository. Pushed the changes to your forked repository branch with the same name.
+7. Create a Pull Request and wait for approval/comments.
 
 ### Adding your custom theme
 
