@@ -149,6 +149,8 @@ Instructions for Mac
 
 Follow [these guidelines](https://github.com/sachinh19/slack-themes/blob/main/CONTRIBUTING.md) to  contribute
 
+If you see a mistake in any part of this repository, report a bug and send a PR if you can. Since this is a text and image only repository the bug report can be as simple as a typo or grammatical mistakes or formatting issues. Bugs will also be accepted for flagging/deleting existing repository content that is found to be inappropriate.
+
 ## License
 
 This repository is [MIT Licensed](https://github.com/sachinh19/slack-themes/blob/main/LICENSE)
