@@ -8,9 +8,16 @@ The eventual goal of this repository is for all users to be able to add their cu
 Instructions for Mac
 
 1. Go to _Slack > Preferences_
-2. Click on _Themes_ from the left nav-bar.
+2. Click on _Themes_ from the left nav-bar
 3. Scroll to find the _Create a custom theme_ link. This should open a section to set the colors in the theme. (This step may not be needed if you have already expanded this section)
 4. Copy the hex values from one of the themes below and paste them in the large text box which under the text `Copy and paste these values to share your custom theme with others`. This should change the theme of the Slack window
+
+Instructions for Windows
+
+1. Click _the 3 bars on the top left corner > File > Preferences (alternatively use the ctrl+, keyboard shortcut)_
+2. Click on _Themes_ from the left nav-bar
+3. Scroll down until you find the _**Colors** Custom theme_ section. There you should find a 3x3 matrix with hex values corresponding to different parts of Slack. Below them you will find the text `Copy and paste these values to share your custom theme with others`, along with a large text box
+4. Copy the hex values from one of the themes below and paste them in the large text box. This should change the theme of the Slack window
 
 ## Custom Themes
 
