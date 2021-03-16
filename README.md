@@ -30,148 +30,189 @@ Instructions for Windows
   ```
   #3F0E40,#350d36,#1164A3,#FFFFFF,#350D36,#FFFFFF,#2BAC76,#CD2553,#350d36,#FFFFFF
   ``` 
+  <details><summary>Click here for screenshot</summary>
   ![Aubergine](./docs/theme-pictures/Aubergine.png)
+  </details>
 
 2. Ochin
 
   ```
   #303E4D,#2C3849,#6698C8,#FFFFFF,#4A5664,#FFFFFF,#94E864,#78AF8F,#2C3849,#FFFFFF
   ``` 
+  <details><summary>Click here for screenshot</summary>
   ![Ochin](./docs/theme-pictures/Ochin.png)
+  </details>
 
 3. Monument
 
   ```
   #0D7E83,#076570,#F79F66,#FFFFFF,#D37C71,#FFFFFF,#F79F66,#F15340,#076570,#FFFFFF
   ``` 
+  <details><summary>Click here for screenshot</summary>
   ![Monument](./docs/theme-pictures/Monument.png)
+  </details>
 
 4. Work Hard
 
   ```
   #4D5250,#444A47,#D39B46,#FFFFFF,#434745,#FFFFFF,#99D04A,#DB6668,#444A47,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Work Hard](./docs/theme-pictures/Work_Hard.png)
+  </details>
 
 5. Aubergine Classic
 
   ```
   #4D394B,#3E313C,#4C9689,#FFFFFF,#3E313C,#FFFFFF,#38978D,#EB4D5C,#3E313C,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Aubergine Classic](./docs/theme-pictures/Aubergine_Classic.png)
-  
+  </details>
+
 6. Eggplant
 
   ```
   #FBFAF7,#DCEEE4,#4A154B,#FBFAF7,#DCEEE4,#4A154B,#2BAC76,#BD3855,#4A154B,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Eggplant](./docs/theme-pictures/Eggplant.png)
+  </details>
 
 7. Hoth
 
   ```
   #F8F8FA,#F8F8FA,#2D9EE0,#FFFFFF,#FFFFFF,#383F45,#60D156,#DC5960,#F8F8FA,#383F45
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Hoth](./docs/theme-pictures/Hoth.png)
+  </details>
 
 8. Mondrain
 
   ```
   #FFFFFF,#FFC806,#000000,#FFFFFF,#FFC806,#000000,#000000,#FD0B00,#1F57E7,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Mondrain](./docs/theme-pictures/Mondrain.png)
+  </details>
 
 9. Ultraviolet
 
   ```
   #F5F5F5,#F0F0F0,#6715EB,#FFFFFF,#E8E8E8,#1A1A1A,#6715EB,#CD2553,#6715EB,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Ultraviolet](./docs/theme-pictures/Ultraviolet.png)
+  </details>
 
 10. Mood Indigo
 
   ```
   #F8F8FA,#E0E7FF,#001A5E,#F8F8FA,#E0E7FF,#001A5E,#2153FF,#2153FF,#001A5E,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Mood Indigo](./docs/theme-pictures/Mood_Indigo.png)
+  </details>
 
 11. CMYK
 
   ```
   #F2F4F7,#FFE600,#35C2FF,#FFFFFF,#FFE600,#151834,#35C2FF,#E71FA3,#E71FA3,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![CMYK](./docs/theme-pictures/CMYK.png)
+  </details>
 
 12. Nocturne
 
   ```
   #1A1D21,#000000,#0576B9,#FFFFFF,#000000,#FFFFFF,#39E500,#CC4400,#000000,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Nocturne](./docs/theme-pictures/Nocturne.png)
+  </details>
 
 13. Haberdashery
 
   ```
   #073642,#002B36,#7D6005,#FDF6E3,#002B36,#FDF6E3,#55D44E,#DC322F,#002B36,#FDF6E3
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Haberdashery](./docs/theme-pictures/Haberdashery.png)
+  </details>
 
 14. Expensive
 
   ```
   #1A1D21,#232527,#3E4232,#C9C49C,#232527,#C9C49C,#C9C49C,#3E4233,#C9C49C,#1A1D21
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Expensive](./docs/theme-pictures/Expensive.png)
+  </details>
 
 15. Terminal
 
   ```
   #1A1D21,#1A2B23,#4EE077,#1A1D21,#1A2B23,#4EE077,#4EE077,#1C913D,#1A2B23,#4EE077
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Terminal](./docs/theme-pictures/Terminal.png)
+  </details>
 
 16. Sweet Treat
 
   ```
   #FFEEED,#FFC2C0,#FFC2C0,#4A154B,#FFFFFF,#4A154B,#FFA95A,#37BD8D,#FFC2C0,#4A154B
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Sweet Treat](./docs/theme-pictures/Sweet_Treat.png)
+  </details>
 
 17. Banana
 
   ```
   #FFEB84,#FFF8D4,#FFC806,#591035,#FFF8D4,#591035,#4C6DC2,#DD4147,#FFC806,#591035
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Banana](./docs/theme-pictures/Banana.png)
+  </details>
 
 18. Choco Mint
 
   ```
   #544538,#42362B,#5DB09D,#FFFFFF,#4A3C30,#FFFFFF,#FFFFFF,#5DB09D,#42362B,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Choco Mint](./docs/theme-pictures/Choco_Mint.png)
+  </details>
 
 19. Discotheque
 
   ```
   #6A1B1B,#6A1B1B,#D94422,#FDF6E3,#461412,#FFD476,#D67739,#D94422,#461412,#FDF6E3
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Discotheque](./docs/theme-pictures/Discotheque.png)
+  </details>
 
 20. Tritanopia
 
   ```
   #4F2F4C,#452842,#8C5888,#FFFFFF,#1C0B1A,#FFFFFF,#00FFB7,#DE4C0D,#452842,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Tritanopia](./docs/theme-pictures/Tritanopia.png)
+  </details>
 
 21. Protanopia & Deuteranopia
 
   ```
   #4F2F4C,#452842,#8C5888,#FFFFFF,#1C0B1A,#FFFFFF,#D0FF00,#889100,#452842,#FFFFFF
   ```
+  <details><summary>Click here for screenshot</summary>
   ![Protanopia & Deuteranopia](./docs/theme-pictures/Protanopia_&_Deuteranopia.png)
-
+  </details>
 
 ## Contributing
 
