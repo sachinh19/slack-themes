@@ -9,6 +9,60 @@ All contributions are welcome, please send a pull request and I will try to revi
 6. Commit the changes to that branch in your cloned repository. Pushed the changes to your forked repository branch with the same name.
 7. Create a Pull Request and wait for approval/comments.
 
+
+### Commit message guidelines
+
+- Commit messages must have a subject line and may have body copy. These must be separated by a blank line.
+- The subject line must not exceed 50 characters
+- The subject line should be capitalized and must not end in a period
+- The subject line must be written in imperative mood (*Fix*, not *Fixed* / *Fixes* etc.)
+- The body copy must be wrapped at 72 columns
+- The body copy must only contain explanations as to *what* and *why*, never *how*. The latter belongs in documentation and implementation.
+
+### Example
+
+This is an example of a complete commit message that adheres to this standard. Parts of this are optional, so read on.
+
+```txt
+Summarize changes in around 50 characters or less
+
+More detailed explanatory text, if necessary. Wrap it to about 72
+characters or so. In some contexts, the first line is treated as the
+subject of the commit and the rest of the text as the body. The
+blank line separating the summary from the body is critical (unless
+you omit the body entirely); various tools like `log`, `shortlog`
+and `rebase` can get confused if you run the two together.
+
+Explain the problem that this commit is solving. Focus on why you
+are making this change as opposed to how (the code explains that).
+Are there side effects or other unintuitive consequences of this
+change? Here's the place to explain them.
+
+Further paragraphs come after blank lines.
+
+ - Bullet points are okay, too
+
+ - Typically a hyphen or asterisk is used for the bullet, preceded
+   by a single space, with blank lines in between, but conventions
+   vary here
+
+If you use an issue tracker, put references to them at the bottom,
+like this:
+
+Resolves: #123
+See also: #456, #789
+```
+
+### Subject and Body
+
+- A body copy is not required for commits that are overly simple. If you find yourself repeating the subject line in the body copy, it's a good sign that the body might be superfluous.
+
+To perform a *simple* commit, a single command if sufficient:
+
+```sh
+$ git commit -m "Fix my subject line style"
+```
+
 ### Adding your custom theme
 
 1. Add it to the custom themes section similar to how default themes have been added.
